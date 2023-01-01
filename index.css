@@ -15,12 +15,12 @@ body{
     align-items: center;
     flex-direction: column;
     background-color: #3a4452;
-    width: 80vw;
+    width: 90vw;
     margin: auto;
     border-radius: 20px;
     box-shadow: -8px -8px 15px rgba(255,255,255,0.1),5px 5px 15px rgba(0,0,0,0.2);
     position: relative;
-    top: 35px;
+    top: 45px;
 
 }
 #container:hover{
@@ -32,8 +32,8 @@ body{
    
 }
 button{
-    height: min(8vh,8vw);
-    width: min(8vh,8vw);
+    height: min(15vh,15vw);
+    width: min(15vh,15vw);
     font-size: 3vh;
     /* font-family: Georgia, 'Times New Roman', Times, serif; */
     margin: 10px;
@@ -89,8 +89,8 @@ button:active{
 
 }
 #btn44{
-    width: 24vw;
-    height: 10vh;
+    width: 30vw;
+    height: 15vh;
     margin-bottom: 8vw;
     font-size: 7vh;
 }
